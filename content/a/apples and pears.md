@@ -1,0 +1,10 @@
+[Ap-ples and pears] /____/
+
+''noun''
+
+1)Cockney Rhyming Slang for Stairs.
+
+
+===Translations===
+
+[[English]]: [[Stairs]]
