@@ -1,0 +1,10 @@
+[[noun]]
+
+#The second day of the [[week]] (according to the ISO 8601 norm).
+
+==Translations==
+*de: Dienstag
+*es: martes
+*fr: [[mardi]]
+*nl: [[dinsdag]]
+*pl: [[wtorek]]
