@@ -1,0 +1,4 @@
+===Etymology===
+Derived from [[abolition]]
+===Transitive verb===
+#To [[imbue]] with the principles of [[abolitionism]]. [Rare] - [[Bartlett]].
