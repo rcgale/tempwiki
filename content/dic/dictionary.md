@@ -1,0 +1,34 @@
+==Definition==
+;'''Dictionary''' ''([[noun]])''
+: A [[publication]], usually in the form of a [[book]], which gives an ordered list (normally [[alphabetical]]ly) of [[word]]s selected on the basis of popularity in a given field, normally explaining their meaning and sometimes containing information on etymology, usage, translations and other items related to the word. Some dictionaries list the words of more than one language and/or give translations in more than one language.
+
+
+==Pronounciation==
+;'''Dictionary''' ''([[noun]])''
+:(UK) IPA:/ˈdɪkʃənrɪ/. 
+:(US) IPA:/ˈdɪkʃənˌerɪ/. 
+
+==Etymology==
+;'''Dictionary''' ''([[noun]])''
+:From medival Latin [[dictionarium]].
+
+==Quotations==
+;'''Dictionary''' ''([[noun]])'' 
+*'''1570''' - Roger Ascham, ''The Scholemaster'' (1570).
+*:So, as the Grammer booke be euer in the Scholers hand, and also vsed of him, as a Dictionarie, for euerie present vse.
+
+
+
+==Translations==
+;'''Dictionary''' ''([[noun]])''
+*da: [[ordbog]]
+*de: [[Wörterbuch]]
+*eo: [[vortaro]]
+*et: [[sõnaraamat]]
+*es: [[diccionario]]
+*et: [[sõnaraamat]]
+*fr: [[dictionnaire]]
+*nl: [[woordenboek]]
+
+== Further reading ==
+*[[en:Dictionary|Wikipedia article]]
