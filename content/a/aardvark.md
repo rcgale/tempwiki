@@ -1,0 +1,9 @@
+===Etymology===
+Dutch, earth-pig
+===Noun===
+Plural: aardvarks
+#''(Zoölogy):'' An [[edentate]] [[mammal]], of the genus ''Orycteropus'', somewhat resembling a [[pig]], common in some parts of Southern Africa. It [[burrows]] in the ground, and feeds entirely on [[ant]]s, which it [[catches]] with its long, [[slimy]] tongue.
+===Translation===
+*Afrikaans: aardvark
+*German: [[Erdferkel]]
+*Dutch: [[aardvarken]]
