@@ -1,0 +1,8 @@
+==[[Adverb]]==
+
+#In an [[accessible]] [[manner]].
+
+===Related Words===
+* [[accessible]]
+* [[accessibility]]
+* [[access]]
