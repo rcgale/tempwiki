@@ -1,0 +1,24 @@
+[[noun]]:
+
+'''cat'''
+
+#A feline mammal member of the family [[felis catus]] with retractable claws, commonly kept as a house pet.
+#[[nautical terminology]]: A contraction of [[cat o'nine tails]], a whip.
+
+''[[verb]]'':
+#(Computer jargon): To direct the contents of an entire file to the screen or some other output device without pause. By extension, to dump large amounts of data at an unprepared target or with no intention of browsing it carefully. Origin: contraction of the word ''[[concatenate]]''. Usage: Rare outside Unix sites. 
+
+===Proverbs/Idioms===
+* "The cat's whiskers" - excellent, outstanding
+* "Cat and [[mouse]] game" - to toy with someone or something
+* "While the cat's away the mice will will play" - In the absence of a controlling entity, subordinates will take advantage of the situation.
+
+'''Translations'''
+
+*de: Katze
+*es: gato
+*fr: chat
+*he: חתול
+*nl: kat
+*ja: neko
+*pl: kot
