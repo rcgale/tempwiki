@@ -1,0 +1,19 @@
+Elephant \El"e*phant\ ''noun'' '''(en)'''
+
+#A [[mammal]] of the order ''Proboscidia'', having a trunk, and two large [[ivory]] tusks jutting from the upper jaw.  Elephants are the largest land animals now existing.
+# the symbol of the [[United States Republican Party]]; introduced in [[cartoon]]s by Thomas Nast in 1874
+
+==Etymology==
+From Latin [[elephantus]] via old French oliphant to 'olyfaunt' (13th century), later respelled to 'elephant' after the Latin word, which itself derives from Greek [[elephas]].
+
+==Translations==
+*da: [[elefant]]
+*de: [[Elefant]]
+*es: [[elfante]]
+*et: [[elevant]]
+*fr: [[éléphant]]
+*nl: [[olifant]]
+*pl: [[s?on´]] 
+
+==Further Reading==
+*[[en:elephant|Wikipedia article]]
