@@ -1,0 +1,21 @@
+==English==
+
+'''proper noun'''
+
+# One of the [[Baltic]] countries. Official name: Republic of Latvia.
+#:'''Translations'''
+#:*[[Danish]]: [[Letland]]
+#:*[[Dutch]]: [[Letland]]
+#:*[[Esperanto]]: [[Latvio]], [[Latvujo]]
+#:*[[Finnish]]: Latvia
+#:*[[French]]: [[Lettonie]]
+#:*[[German]]: [[Lettland]]
+#:*[[Greek]]: [[Λεττονία]]
+#:*[[Italian]]: [[Lettonia]]
+#:*[[Polish]]: [[Łotwa]]
+#:*[[Portuguese]]: [[Letónia]]
+#:*[[Russian]]: [[Латвия]]
+#:*[[Spanish]]: [[Letonia]]
+#:*[[Swedish]]: [[Lettland]]
+
+''See'': [[Countries of the world]]
