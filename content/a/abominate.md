@@ -1,0 +1,14 @@
+'''Abominate''', ''[[transitive verb (part of speech)|transitive verb]]'' [''[[imp. (part of speech)|imp.]] & [[past participle (part of speech)|past participle]]'' [[Abominated]]; ''[[present participle (part of speech)|present participle]] & [[vb. n. (part of speech)|vb. n.]]'' [[Abominating]].] [L. ''abominatus'', p. p. or ''abominari'' to [[deprecate]] as [[ominous]], to [[abhor]], to curse; ''ab'' + ''omen'' a [[foreboding]]. See [[Omen]].]
+
+To turn from as [[ill-omened]]; to hate in the highest degree, as if with religious dread; [[loathe]]; as, to ''abominate'' all [[impiety]].
+
+'''Synonyms:''' -- To hate; [[abhor]]; loathe; [[detest]]. See [[Hate]].
+
+---- 
+'''Translations''' 
+* [[French]]: [[Détester]] 
+* [[German]]: [[Verabscheuen]] 
+* [[Interlingua]]: [[Abominar]], [[Detestar]] 
+* [[Italian]]: [[Abominare]] 
+* [[Portuguese]]: [[]] 
+* [[Spanish]]: [[Abominar]], [[Detestar]]
