@@ -1,0 +1,4 @@
+===Etymology===
+Dutch earth-wolf
+===Noun===
+#''(Zoölogy):'' A [[carnivorous]] [[quadruped]] (''Proteles Lalandii''), of South Africa, resembling the fox and [[hyena]]. See [[Proteles]].
