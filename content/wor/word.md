@@ -1,0 +1,12 @@
+*(linguistics) A distinct unit of language (sounds in speech or written letters) with a particular meaning. Composed of one or more [[morpheme]]s.
+
+*Something said or promised.
+
+*(computers) A numerical value with a bit width native to the machine
+
+==Translations==
+*da: [[ord]]
+*de: [[Wort]]
+*eo: [[vorto]]
+*fr: [[mot]]
+*nl: [[woord]]
