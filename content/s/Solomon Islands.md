@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Melanesia. Official name: Solomon Islands.
+#:'''Translations'''
+#:*[[Danish]]: [[Salomonøerne]]
+#:*[[Dutch]]: [[Salomonseilanden]]
+#:*[[Esperanto]]: [[Salomonoj]]
+#:*[[Finnish]]: [[Salomonsaaret]]
+#:*[[French]]: [[Iles Salomon]]
+#:*[[German]]: [[Salomonen]]
+#:*[[Greek]]: [[Νήσοι Σολομώντος]]
+#:*[[Interlingua]]: [[Insulas Salomon]]
+#:*[[Italian]]: [[Isole Salomone]]
+#:*[[Polish]]: [[Wyspy Salomona]]
+#:*[[Portuguese]]: [[Ilhas Salomão]]
+#:*[[Russian]]: [[Соломоновы острова]]
+#:*[[Spanish]]: [[Islas Salomón]]
+#:*[[Swedish]]: [[Salomonöarna]]
+
+''See'': [[Countries of the world]]
