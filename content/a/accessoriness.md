@@ -1,0 +1,4 @@
+===Etymology===
+Derivative of [[accessory]]
+===Noun===
+#The state of being [[accessory]], or connected [[subordinately]].
