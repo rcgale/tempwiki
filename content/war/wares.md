@@ -1,4 +1,0 @@
-Wares
-
-''[[noun]]''
-# commodities offered for sale; "good business depends on having good merchandise"; "that store offers a variety of products" [''syn:'' [[merchandise]], [[product]]]

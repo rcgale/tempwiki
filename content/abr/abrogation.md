@@ -1,3 +1,0 @@
-'''Abrogation''', ''[[noun (part of speech)|noun]]'' [L. ''abrogatio'', fr. ''abrogare'': cf. F. ''abrogation''.]
-
-The act of [[abrogating]]; [[repeal]] by authority. ''[[Hume (source)|Hume]].''

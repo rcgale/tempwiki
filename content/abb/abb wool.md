@@ -1,3 +1,0 @@
-'''Abb wool''' .
-
-See [[Abb]].

@@ -1,3 +1,0 @@
-'''Fabaceous''', ''[[adjective (part of speech)|adjective]]'' [L. ''fabaceus'', fr. ''faba'' bean.]
-
-Having the nature of a bean; like a bean.

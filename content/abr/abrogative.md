@@ -1,3 +1,0 @@
-'''Abrogative''', ''[[adjective (part of speech)|adjective]]''
-
-Tending or designed to [[abrogate]]; as, an ''abrogative'' law.

@@ -1,3 +1,0 @@
-'''Fabella''', ''[[noun (part of speech)|noun]]''; ''[[pl. (source)|pl.]]'' '''Fabellae''' (-l&?;). [NL., dim. of L. ''faba'' a bean.] ''([[Anat (subject)|Anat]]).''
-
-One of the small [[sesamoid]] bones situated behind the [[condyles]] of the [[femur]], in some mammals.

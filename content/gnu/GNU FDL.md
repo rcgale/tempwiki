@@ -1,1 +1,0 @@
-#REDIRECT [[Wiktionary:Text of the GNU Free Documentation License]]

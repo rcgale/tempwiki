@@ -1,4 +1,0 @@
-Trade wind
-
-''[[noun]]''
-# steady winds blowing from east to west above and below the equator; "they rode the trade winds going west" [''syn:'' [[trade]]]

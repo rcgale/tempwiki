@@ -1,7 +1,0 @@
-A hyponyme of A is a word B that is most specific than A (compare whith [[hypernym]]). That is to say that you may call B A but not the reverse. 
-
-'''Exemples'''
-
-* [[dog]] is hyponym of animal. Indede, all dogs are animals but all animals are not dogs.
-* Spanish is hyponym of European
-* rectangle - square

@@ -1,3 +1,0 @@
-'''Abloom''', ''[[adverb (part of speech)|adverb]]'' [Pref. ''a-'' + ''bloom''.]
-
-In or into bloom; in a [[blooming]] state. ''[[Masson (source)|Masson]].''

@@ -1,3 +1,0 @@
-[___] /____/
-
-1) A lung condition that some miners suffer from.

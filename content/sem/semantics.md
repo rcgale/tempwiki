@@ -1,1 +1,0 @@
-'''Semantics''' is the science that study the meaning of words. Semantics is part of linguistics

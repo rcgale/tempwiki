@@ -1,7 +1,0 @@
-Barter \Bar"ter\
-
-''[[noun]]'' 
-# an equal exchange; "we had no money so we had to live by barter" [syn: [[swap]], [[swop]], [[trade]], [[quid pro quo]]] [Translations. es: trueque, fr: troc]
-
-''[[verb]]''
-#exchange goods without involving money [Translations. es: trocar, fr: troquer]

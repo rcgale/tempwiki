@@ -1,4 +1,0 @@
-Adjectival \Ad`jec*ti"val\
-
-''[[adjective]]''
-# of or relating to or functioning as an adjective; "adjectival syntax"; "an adjective clause" [''syn:'' [[adjective]]]

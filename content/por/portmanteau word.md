@@ -1,9 +1,0 @@
-''[[noun]]''
-
-# ''[[linguistic terminology|Linguistics]]''  A word formed which combines the meaning of several words often by adjoining parts of the words together; for example, ''[[smoke]]'' and ''[[fog]]'' combine to form ''[[smog]].'' 
-
-See: [[portmanteau]]
-
-== Translations ==
-*nl: [[mengwoord]] (1)
-*fr: [[mot-valise]] (1)

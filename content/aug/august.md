@@ -1,9 +1,0 @@
-[Au-gust] /___/
-
-#August is the eighth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
-
-==Translations==
-*de: August
-*es: agosto
-*fr: août
-*nl: [[augustus]]

@@ -1,8 +1,0 @@
-[[idiom]]
-
-Rain very heavily
-
-==Translations==
-
-*nl: [[pijpenstelen regenen]]
-*fr: pleuvoir des cordes, pleuvoir à verse, (dracher in Belgium)

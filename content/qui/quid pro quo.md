@@ -1,4 +1,0 @@
-quid pro quo
-
-''[[noun]]''
-# an equal exchange; "we had no money so we had to live by barter" [''syn:'' [[barter]], [[swap]], [[swop]], [[trade]]]

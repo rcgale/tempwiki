@@ -1,1 +1,0 @@
-In [[Lakota mythology]], '''Waukheon''' ("the thunderbird") is a god of [[thunder]]-[[cloud]]s.

@@ -1,7 +1,0 @@
-(da),(de),(nl),(pl),(sv): [[free]] (2) of charge
-
-==Etymology==
-
-From French *[[gratuit]].
-
-Related words: fr [[gratuit]]

@@ -1,3 +1,0 @@
-'''Abaca''', ''[[noun (part of speech)|noun]]'' [The native name.]
-
-The [[Manila-hemp]] plant (''Musa textilis''); also, its fiber. See ''Manila hemp'' under [[Manila]].
