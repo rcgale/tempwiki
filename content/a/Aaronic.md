@@ -1,0 +1,4 @@
+===Variant===
+'''[[Aaronical]]'''
+===Adjective===
+#Pertaining to [[Aaron]], the first high priest of the Jews.
