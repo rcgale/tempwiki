@@ -1,0 +1,9 @@
+# A [[time]] period of 60 [[minute]]s; one 24th of a [[day]].
+
+'''Translations'''
+
+*es: hora
+*fr: heure
+*he: שעה
+*nl: uur
+*yi: שעה
