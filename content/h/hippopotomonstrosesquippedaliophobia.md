@@ -1,0 +1,10 @@
+===Pronunciation===
+[Hip-po-pot-mon-stro-ses-quip-pe-da-lio-phob-ia]
+/____/
+===Noun===
+#The fear of long words.
+===Usage===
+*"Don't say Hippopotomonstrosesquippedaliophobia, I'm scared of it."
+===Quotations===
+*'''2002''' - However, we assume that despite the best endeavours of science, some phobias will always remain. These include [[paraskavedekatriaphobia]], or fear of Friday the 13th. And '''hippopotomonstrosesquippedaliophobia''', which is fear of long words.  - anon, ''The Scotsman'' (April 9, 2002) page 13.
+*'''2002''' - Those who find this column troubling are suffering from '''hippopotomonstrosesquippedaliophobia''' - the fear of long words. Or, more likely, [[rupophobia]] - a fear of rubbish. - Chris Lloyd in ''The Northern Echo'' (December 14, 2002) page 10
