@@ -1,0 +1,4 @@
+===Etymology===
+Latin preposition, [[etymologically]] the same as English ''of'', ''off''. See [[Of]]
+===Prefix===
+#A prefix in many words of Latin origin. It [[signifies]] ''from'', ''away'', ''separating'', or ''departure'', as in ''ab''duct, ''abs''tract, ''abs''cond. See [[A-]].
