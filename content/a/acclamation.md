@@ -1,0 +1,23 @@
+===Etymology===
+Latin ''acclamatio'': cf. French ''acclamation''
+===Noun===
+#A [[shout]] of [[approbation]], favor, or assent; eager expression of [[approval]]; loud [[applause]].
+#:'''Quotations'''
+#:*On such a day, a holiday having been voted by ''acclamation'', an ordinary walk would not satisfy the children. - [[Southey]].
+#:'''Translations'''
+#:*[[Dutch]]: [[gejuich]], [[acclamatie]]
+#The process of electing a person to a post in the absence of other nominees.
+#:'''Translations'''
+#:*[[Dutch]]: zonder hoofdelijke stemming, met algemene instemming
+#''([[Antique]]s):'' A representation, in [[sculpture]] or on [[medals]], of people expressing joy.
+#:'''Quotations'''
+#:*'''Acclamation medals''' are those on which [[laudatory]] [[acclamations]] are recorded. - [[Elmes]]
+
+<HR> <P> <H3>Translations</H3>
+<BR>• [[French]]: [[Acclamation]]
+<BR>• [[German]]: [[Zuruf]]
+<BR>• [[Interlingua]]: [[Acclamation]]
+<BR>• [[Italian]]: [[]]
+<BR>• [[Portuguese]]: [[]]
+<BR>• [[Spanish]]: [[Aclamación]]
+<BR>
