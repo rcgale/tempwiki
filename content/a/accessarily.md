@@ -1,0 +1,4 @@
+===Etymology===
+Derivative of [[accessary]]
+===Adverb===
+#In the manner of an [[accessary]].
