@@ -1,0 +1,6 @@
+===Etymology===
+Latin ''abnegatus'', past participle of ''abnegare''; ''ab'' + ''negare'' to deny. See [[Deny]]
+===Transitive verb===
+Imperfect and past participle: [[Abnegated]]<br>
+Present participle and verbal noun [[Abnegating]]
+#To deny and reject; to [[abjure]]. - [[Sir E. Sandys. Farrar]]
