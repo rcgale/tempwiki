@@ -1,0 +1,2 @@
+===abbreviation===
+#(''Computing'') Graphical User Interface.
