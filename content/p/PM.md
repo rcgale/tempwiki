@@ -1,0 +1,6 @@
+# The second [[half]] of the [[day]], from [[noon]] (12:00) to [[midnight]] (24:00).
+# Abbreviation for [[prime minister]].
+
+== Etymology ==
+
+PM is an abbreviation of ''post meridian'', [[Latin]] for "after the middle"
