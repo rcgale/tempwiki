@@ -1,0 +1,10 @@
+[[noun]]
+
+#A period of 24 [[hour]]s. There are 7 days in a week: [[Monday]], [[Tuesday]], [[Wednesday]], [[Thursday]], [[Friday]], [[Saturday]] and [[Sunday]].
+
+==Translations==
+*de: [[Tag]]
+*es: día (remarque: Wednesday and Saturday take an accent in Spanish)
+*fr: [[jour]]
+*nl: [[dag]]
+*pl: [[dzień]]
