@@ -1,0 +1,5 @@
+See,
+
+#[[Portmanteau (1500)]] - ''(noun)'' A large travelling case made of [[leather]].
+#[[Portmanteau (1872)]] - ''(adjective)'' Word combining the meaning of other words.
+#[[Portmanteau (2002)]] - ''(adjective)'' A work produced by several people.
