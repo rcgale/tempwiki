@@ -1,0 +1,11 @@
+#Connotation is what a word suggests (compare with [[denotation]]). The connotation is not the first meaning.
+
+'''Examples'''
+
+* [[dog]] refers to someone who is morally reprehensible
+
+===Translations===
+*de: [[Konnotation]], [[Nebenbedeutung]], [[Beiklang]], [[Beigeschmack]]
+*es: [[connotación]]
+*fr: [[connotation]]
+*nl: [[connotatie]], [[bijbetekenis]], [[bijklank]], [[associatie]], [[gevoelswaarde]]
