@@ -1,0 +1,10 @@
+[Oc-to-ber] /___/
+
+#October is the tenth [[month]] in the Gregorian [[calendar]]. It has 31 [[day]]s.
+
+==Translations==
+*de: [[Oktober]]
+*eo: [[oktobro]]
+*es: [[octubre]]
+*fr: [[octobre]]
+*nl: [[oktober]]
