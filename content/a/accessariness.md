@@ -1,0 +1,4 @@
+===Etymology===
+Derivative of [[accessary]]
+===Noun===
+#The state of being [[accessary]].
