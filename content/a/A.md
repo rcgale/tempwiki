@@ -1,0 +1,52 @@
+===Noun===
+====Pronunciation====
+Named /e&#618;/ in the English, and most commonly /&#593;&#720;/ in other languages.  The current pronunciation is a comparatively modern sound, and has taken the place of what, till about the early part of the 17th century, was similar to that in other languages.
+====Definitions====
+#The first letter of the English and of many other alphabets. The capital A of the alphabets of Middle and Western Europe, as also the small letter (a), besides the forms in Italic, black letter, etc., are all descended from the old Latin A, which was borrowed from the Greek Alpha (&Alpha; &alpha), of the same form; and this was made from the first letter of the Phoenician alphabet, the equivalent of the Hebrew Aleph (&#8501), and itself from the Egyptian origin. The Aleph was a consonant letter, with a guttural breath sound that was not an element of Greek articulation; and the Greeks took it to represent their vowel Alpha with the a sound, the Phoenician alphabet having no vowel symbols.
+#The name of the sixth tone in the model major scale (that in C), or the first tone of the minor scale, which is named after it the scale in A minor. The second string of the violin is tuned to the A in the treble staff. -- A sharp (A&#9839;) is the name of a musical tone intermediate between A and B. -- A flat (A&#9837;) is the name of a tone intermediate between A and G.
+===Adjective===
+Shortened form of [[an]] Anglo Saxon &#257n one. See [[One]]
+#An adjective, commonly called the indefinite article, and signifying one or any, but less emphatically.
+#:'''Examples and Quotations'''
+#:*At a birth"
+#:*In a word"
+#:*At a blow" - Shakespeare, ''?''. 
+#:'''Notes'''
+#:#It is placed before nouns of the singular number denoting an individual object, or a quality individualized, before collective nouns, and also before plural nouns when the adjective few or the phrase great many or good many is interposed; as, a dog, a house, a man; a color; a sweetness; a hundred, a fleet, a regiment; a few persons, a great many days. It is used for an, for the sake of euphony, before words beginning with a consonant sound [for exception of certain words beginning with h, see An]; as, a table, a woman, a year, a unit, a eulogy, a ewe, a oneness, such a one, etc. Formally an was used both before vowels and consonants.
+#In each; to or for each; as, "twenty leagues a day", "a hundred pounds a year", "a dollar a yard", etc. (Derived from the preposition meaning "on") 
+===Preposition===
+(Abbreviated form of ''an'' (Anglo Saxon on). See [[On]])
+#''(Obsolete):'' In; on; at; by.
+#:'''Examples and Quotations'''
+#:*A God's name.
+#:*Torn a pieces. 
+#:*Stand a tiptoe. 
+#:*A Sundays" - Shakespeare, ''Hamlet, IV-v''. 
+#:*Wit that men have now a days. - [[Chaucer]]. 
+#:*Set them a work. - Robynson, ''More's Utopia''
+#In process of; in the act of; into; to; 
+#:'''Notes'''
+#:#Used with verbal substantives in -ing which begin with a consonant. This is a shortened form of the preposition an (which was used before the vowel sound); as in a hunting, a building, a begging.
+#:#The hyphen may be used to connect a with the verbal substantive (as, a-hunting, a-building) or the words may be written separately. This form of expression is now for the most part obsolete, the a being omitted and the verbal substantive treated as a participle.
+#:'''Quotations'''
+#:*Jacob, when he was a dying - ''Hebrews 11-21''. 
+#:*We'll a birding together. 
+#:*It was a doing. - Shakespeare 
+#:*He burst out a laughing." - [[Macaulay]]. 
+#''(Obsolete):'' Of. (From Anglo Saxon "of", "off", "from". See [[of]])
+#:'''Examples and Quotations'''
+#:*The name of John a Gaunt.
+#:*What time a day is it? - Shakespeare, ''1 Henry IV, I-ii''. 
+#:*It's six a clock. - [[B. Jonson]].
+===Corrupted word===
+#A barbarous corruption of have, of he, and sometimes of it and of they.  "So would I a done"
+#:'''Quotations'''
+#:*a' brushes his hat o' mornings. - Shakespeare, ''Much Ado About Nothing, III-ii''
+===Expletive===
+#An expletive, void of sense, to fill up the meter in a rhyming couplet
+#:'''Quotations'''
+#:*A merry heart goes all the day, <br>Your sad tires in a mile-a - Shakespeare, ''The Winter's Tale, IV-iii''
+===Abreviation===
+#''(as capital):'' vehicle distinguishing sign for [[Austria]]
+===Prefix===
+See [[a-]] for these usages
