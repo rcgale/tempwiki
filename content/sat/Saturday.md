@@ -1,0 +1,10 @@
+[[noun]]
+
+#The sixth day of the [[week]] (according to the ISO 8601 norm).
+
+==Translations==
+*de: Samstag
+*es: sábado
+*fr: [[samedi]]
+*nl: [[zaterdag]]
+*pl: [[sobota]]
