@@ -1,0 +1,2 @@
+===abbreviation===
+#(''Computing'') Command Line Language.
