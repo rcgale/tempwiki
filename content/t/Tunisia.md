@@ -1,0 +1,22 @@
+==English==
+
+'''proper noun'''
+
+# Country in Northern Africa. Official name: Republic of Tunisia.
+#:'''Translations'''
+#:*[[Danish]]: [[Tunesien]]
+#:*[[Dutch]]: [[Tunesië]]
+#:*[[Esperanto]]: [[Tunizio]]
+#:*[[Finnish]]: Tunisia
+#:*[[French]]: [[Tunisie]]
+#:*[[German]]: [[Tunesien]]
+#:*[[Greek]]: [[Τυνησία]]
+#:*[[Interlingua]]: Tunisia
+#:*[[Italian]]: Tunisia
+#:*[[Polish]]: [[Tunezja]]
+#:*[[Portuguese]]: Tunísia
+#:*[[Russian]]: [[Тунис]]
+#:*[[Spanish]]: [[Túnez]]
+#:*[[Swedish]]: [[Tunisien]]
+
+''See'': [[Countries of the world]]
