@@ -1,9 +1,0 @@
-/gRatwi/
-
-'''(fr)''': [[free]] (2) of charge
-
-'''(nl)''': [[gratuitous]], not obliged to
-
-==Etymology==
-
-(da),(de),(nl),(pl),(sv),(es): [[gratis]], as well as (nl) gratuit are derived from (fr) gratuit.

@@ -1,3 +1,0 @@
-===Noun===
-#A person who creates a web site.
-#An expert user of the web.

@@ -1,1 +1,0 @@
-is: verb, 3rd person singular of "to be" -- see "to [[be]]".

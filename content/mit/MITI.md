@@ -1,7 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Minsitry of International Trade and Industry]]
-
-===Translations===
-
-*French : [[MITI]], [[ministère du commerce international et de l'industrie]] (''source'': le monde)

@@ -1,7 +1,0 @@
-===Etymology===
-Cornish?
-===Pronunciation===
-===Noun===
-A special meatpie from Cornwall, made from aborted miscarried pigs.
-===Reference===
-:James Halliwell, ''A Dictionary of Archaic and Provincial Words'', London, 1855.

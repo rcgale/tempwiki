@@ -1,3 +1,0 @@
-derived from [[gratuit]]
-
-Often used in the sense of '[[gratuitous violence]]'...

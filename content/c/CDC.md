@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Center for disease control]]

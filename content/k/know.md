@@ -1,8 +1,0 @@
-==Verb==
-
-To have some data about something or somebody.
-
-*[[Irregular Conjugation]]:
-**Know : [[infinitive]]
-**Knew : [[preterite]] 
-**Known: [[past participle]]

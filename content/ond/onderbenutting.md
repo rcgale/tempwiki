@@ -1,5 +1,0 @@
-==Dutch==
-===Etymology===
-Dutch government language: literally subutilization
-===Noun===
-#Incomplete use (of a budget)

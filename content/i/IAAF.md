@@ -1,2 +1,0 @@
-===abbreviation===
-#International Association of Athletics Federations.

@@ -1,2 +1,0 @@
-Abbreviation for:
-*Optical Character Recognition

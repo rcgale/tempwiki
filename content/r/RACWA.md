@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Automobile Club of Western Australia (Australian Automobile Association)

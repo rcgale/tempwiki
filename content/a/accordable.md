@@ -1,5 +1,0 @@
-===Etymology===
-Old French ''acordable'', French ''accordable''
-===Adjective===
-#''(Obsolete):'' [[Agreeing]] - [[Chaucer]]
-#[[Reconcilable]]; in accordance.

@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Automobile Club of Victoria (Australian Automobile Association)

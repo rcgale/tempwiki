@@ -1,9 +1,0 @@
-Accost, <i>[[Verb]]</i> ''to approach another with the intent of doing something''.
-
-<HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[Aborder]]
-<BR>• [[German]]: [[Nähern sich]]
-<BR>• [[Interlingua]]: [[Accostar]], [[Abordar]]
-<BR>• [[Italian]]: [[Indirizzarsi a]]
-<BR>• [[Portuguese]]: [[Abordar]]
-<BR>• [[Spanish]]: [[Acercarse a]]<BR>

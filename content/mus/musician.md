@@ -1,3 +1,0 @@
-[[noun]] '''musician'''
-# one who plays a musical instrument, or directs a musical ensemble
-# one who studies or creates music e.g a composer

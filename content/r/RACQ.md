@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Automobile Club of Queensland (Australian Automobile Association)

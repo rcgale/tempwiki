@@ -1,7 +1,0 @@
-===noun===
-
-Any set of [[parallel]] [[bar]]s or concentric [[circle]]s, varying in width, spacing, or height, [[encode|encoding]] [[information]] according to a [[symbology]].
-
-'''translations'''
-*[[Dutch]]: [[streepjescode]]
-*[[Finnish]]: [[viivakoodi]]

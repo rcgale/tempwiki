@@ -1,7 +1,0 @@
-==[[Adjective]]==
-
-#Referring to the [[culture]]s of the [[American]] [[continent]] before the European influence. While technically referring to the era before [[Christopher Columbus]]
-
-===Translations===
-* Dutch: [[precolumbiaans]]
-* Spanish : Precolombino

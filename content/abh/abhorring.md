@@ -1,5 +1,0 @@
-===Etymology===
-Derivative of [[abhor]]
-===Noun===
-#[[Detestation]]. - [[Milton]].
-#Object of [[abhorrence]]. - ''Isaiah 66:24''

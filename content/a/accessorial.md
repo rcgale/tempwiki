@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[accessory]]
-===Adjective===
-#Of or pertaining to an [[accessory]]; as, ''accessorial'' [[agency]], ''accessorial'' guilt.

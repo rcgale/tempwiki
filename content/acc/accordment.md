@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[accord]] from old French ''acordement''
-===Noun===
-#Agreement; [[reconcilement]]. [Obsolete] - ''[[Gower]].''

@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[absinth]]
-===Noun===
-#The condition of being poisoned by the excessive use of [[absinth]].

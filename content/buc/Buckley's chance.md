@@ -1,1 +1,0 @@
-A very small chance, see http://www.anu.edu.au/ANDC/Ozwords/Oct%202000/Buckley%27s.html

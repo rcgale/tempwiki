@@ -1,2 +1,0 @@
-===Noun===
-#At all times simultaneously.

@@ -1,4 +1,0 @@
-===[[Acronym]]===
-
-#Return On Investment
-#(UK) Republic of Ireland

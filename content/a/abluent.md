@@ -1,6 +1,0 @@
-===Etymology===
-Latin ''abluens'', past preterite of. ''abluere'' to wash away; ''ab'' + ''luere'' (''lavere'', ''lavare''). See [[Lave]]
-===Adjective===
-#Washing away; carrying off [[impurities]]; [[detergent]].
-===Noun===
-#''(Medicine):'' A detergent.

@@ -1,5 +1,0 @@
-===Abbreviation===
-#Before Christ
-#:Placed after the year number, for example: "1045 BC".  (See also: [[BCE]])
-#British Columbia
-#Baja California

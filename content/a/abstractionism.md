@@ -1,1 +1,0 @@
-Abstractionism, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstractionnisme]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Abstractionismo]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstraccionismo]]<BR>

@@ -1,7 +1,0 @@
-==[[Noun]]==
-
-===Translations===
-*Dutch: [[leger]]
-*Finnish: [[armeija]]
-*French: [[armée]]
-*Spanish: [[ejército]]

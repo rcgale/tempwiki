@@ -1,7 +1,0 @@
-==[[Abbreviation]]==
-
-*[[Frequency division multiple access]]
-
-===Translations===
-
-*French: FDMA, [[AMFR]], [[accès multiple par répartition dans les fréquences]]

@@ -1,9 +1,0 @@
-[[Esperanto]]
-
-*El [[eo:Anglio]]
-*Lingvo devenanta el Anglio.
-
-=== Tradukoj ===
-
-*[[Angla]]:english
-*[[Hispana]]:inglés ([[viro]], inglesa ([[virino]]).

@@ -1,5 +1,0 @@
-===Verb===
-#To convert an [[encrypt]]ed text into [[plain]] text.
-#:'''Translations'''
-#:*[[Dutch]]: [[ontcijferen]], [[decoderen]], [[ontsleutelen]]
-#:*[[German]]: [[entschlüsseln]]

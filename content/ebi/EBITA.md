@@ -1,1 +1,0 @@
-Abreviation of Earnings Before Interest Taxes and Amortization.

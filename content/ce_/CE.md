@@ -1,4 +1,0 @@
-===Abbreviation===
-#Common Era
-#:A culturally neutral equivalent of [[AD]], "anno domini", often suffixed to dates, for example: "1066 CE".  (See also: [[BCE]])
-#Christian Era

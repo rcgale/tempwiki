@@ -1,6 +1,0 @@
-===Etymology===
-Latin ''vivus'' ([[alive]]), through late latin ''vivificare'' and French ''vivifier''
-
-===Verb===
-#To bring to life
-#To impart vitality

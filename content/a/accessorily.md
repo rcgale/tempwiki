@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[accessory]]
-===Adverb===
-#In the manner of an [[accessory]]; auxiliary.

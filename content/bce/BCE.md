@@ -1,4 +1,0 @@
-===Abbreviation===
-#Before the Common Era
-#:A culturally neutral equivalent of [[BC]], "before Christ" often suffixed to dates, for example: "1045 BCE".
-#Before the Christian Era

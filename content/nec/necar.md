@@ -1,9 +1,0 @@
-==Swedish==
-===Verb===
-#To drown in water
-===Translations===
-*French: Se [[noyer]]
-*Italian: [[Annegarsi]]
-*Spanish: [[Ahogúese]]
-*Portuguese: [[Afogue-se]]
-*German: [[Ertrinken sich]].

@@ -1,5 +1,0 @@
-==Definition==
-;'''Carpatho-Rusyn''' (''[[noun]]'')
-: An east-Slavic ethnic group of the Carpathian mountains.
-==Alternative spellings==
-==Pronounciation==

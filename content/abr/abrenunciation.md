@@ -1,6 +1,0 @@
-===Etymology===
-Late Latin ''abrenuntiatio''. See [[Abrenounce]].
-===Noun===
-#Absolute [[renunciation]] or [[repudiation]]. [Obsolete]
-#:'''Quotations'''
-#:*An ''abrenunciation'' of that truth which he so long had professed, and still believed. - [[Fuller]]

@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#National Roads and Motorists' Association (Australian Automobile Association)

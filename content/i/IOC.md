@@ -1,3 +1,0 @@
-===abbreviation===
-#Inter-office communication.
-#International Olympic Comitee.

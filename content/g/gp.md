@@ -1,5 +1,0 @@
-French
-
-===[[Abbreviation]]===
-
-#[[glycoprotéine]]

@@ -1,1 +1,0 @@
-Abstergent, <i>[[Adjective]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstersif]]<BR>• [[German]]: [[Reinigend]]<BR>• [[Interlingua]]: [[Abstergente]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstergente]]<BR>

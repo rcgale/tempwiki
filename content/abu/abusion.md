@@ -1,4 +1,0 @@
-===Etymology===
-Old English ''abusion'', ''abusioun'', Old French ''abusion'', from Latin ''abusio'' [[misuse]] of words, from ''abuti''. See [[Abuse]] (transitive verb)
-===Noun===
-#Evil or corrupt usage; abuse; wrong; reproach; [[deception]]; cheat. - [[Chaucer]]

@@ -1,6 +1,0 @@
-Abbreviation for:
-
-*Commander of the Order of the British Empire
-*Component Boolean Expression
-*Calculated Best Estimate    
-*Command Budget Estimate

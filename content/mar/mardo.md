@@ -1,8 +1,0 @@
-[[Esperanto]]
-
-La dua tago de la [[semajno]] ( laux normigo [[ISO]] 8601).  Sekvas al la [[lundo]] kaj antauxas al [[merkredo]].
-
-=== [[Traduko]]j ===
-
-*[[Angla]]: [[tuesday]]
-*[[Hispana]]: martes

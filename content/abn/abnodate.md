@@ -1,4 +1,0 @@
-===Etymology===
-Latin ''abnodatus'', past participle of ''abnodare''; ''ab'' + ''nodus'' knot.
-===Transitive verb===
-#To clear (tress) from knots. [Rare] - [[Blount]]

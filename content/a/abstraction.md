@@ -1,1 +1,0 @@
-Abstraction, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstraction]]<BR>• [[German]]: [[Abstraktion]]<BR>• [[Interlingua]]: [[Abstraction]]<BR>• [[Italian]]: [[Astrazione]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Abstracción]]<BR>

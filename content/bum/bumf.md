@@ -1,7 +1,0 @@
-===Variant spelling===
-Bumph
-===Etymology===
-Shortened word for [[bumfodder]]
-===Noun===
-#''(dated):'' Toilet paper
-#Useless bundle of paper

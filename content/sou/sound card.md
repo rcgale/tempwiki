@@ -1,4 +1,0 @@
-===Noun===
-#Hardware computer device used for generating sounds.
-#:'''Translations'''
-#:*[[Dutch]]: [[geluidskaart]]

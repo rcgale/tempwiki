@@ -1,7 +1,0 @@
-==Meta Usage==
-===[[Abbreviation]]===
-#(as eo): [[w:ISO-639|ISO-639]] code for [[Esperanto]]
-
-===[[Traduko]]j===
-
-*[[Hispana]]: [[Esperanto]].

@@ -1,2 +1,0 @@
-[[Acronym]]
-#Laughing out loud

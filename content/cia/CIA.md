@@ -1,3 +1,0 @@
-Abbreviation for:
-
-*[[Central Intelligence Agency]]

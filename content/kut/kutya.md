@@ -1,5 +1,0 @@
-==Hungarian==
-===Noun===
-#Dog
-#:'''Translations'''
-#:*Dutch: [[hond]]

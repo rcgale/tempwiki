@@ -1,1 +1,0 @@
-Absorption, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Absorption]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Absorption]]<BR>• [[Italian]]: [[Assorbimento]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Absorción]]<BR>

@@ -1,9 +1,0 @@
-Italian: Società per Azioni
-
-Similar are:
-
-English: Public Limited Company ([[plc]])
-
-American: Incorporated ([[Inc.]])
-
-Dutch: Naamloze Vennootschap ([[NV]])

@@ -1,4 +1,0 @@
-===Etymology===
-Latin ''ablactatus'', past participle of ''ablactare''; ''ab'' + ''lactare'' to [[suckle]], from ''lac'' milk
-===Transitive verb===
-#To wean. [Rare] - [[Bailey]].

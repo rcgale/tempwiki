@@ -1,6 +1,0 @@
-===Nominal expression===
-#A '''mass noun''' is a [[noun]] describing something that cannot be counted. It often does not have a plural. It is used without the indefinite article. Examples: [[information]], [[money]] (however, "[[dollar]]", "[[euro]]", etc., are count nouns), [[soap]] (you count bars of soap, not soap itself).
-#:'''translations'''
-#:*[[Dutch]]: [[niet-telbaar zelfstandig naamwoord]]
-
-Compare [[count noun]].

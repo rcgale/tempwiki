@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[accept]] + [[-ly]]
-===Adverb===
-#In an accepted manner; [[admittedly]].

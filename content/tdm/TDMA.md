@@ -1,7 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Time division multiple access]]
-
-===Translations===
-
-*French: [[TDMA]], [[accès multiple à répartition dans le temps]]

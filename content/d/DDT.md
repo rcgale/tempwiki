@@ -1,2 +1,0 @@
-===abbreviation===
-#[[dichlorodiphenyltrichloroethane]], an insecticide.

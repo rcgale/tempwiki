@@ -1,1 +1,0 @@
-Abbreviation: Talk to You Later

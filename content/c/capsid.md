@@ -1,5 +1,0 @@
-==[[Noun]]==
-
-===Translations===
-
-#[[capside]]

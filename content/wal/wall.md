@@ -1,9 +1,0 @@
-==[[Noun]]==
-
-===Translations===
-
-*Dutch: [[muur]]
-*French: [[mur]]
-*German: [[Mauer]],[[Wand]]
-*Hebrew: [[קיר]]
-*Spanish: [[pared]]

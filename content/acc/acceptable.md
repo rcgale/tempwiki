@@ -1,5 +1,0 @@
-===Etymology===
-Derivative of [[accept]] + [[-able]]
-
-===Adjective===
-#Capable, worthy, or sure of being accepted or received with pleasure; pleasing to a [[receiver]]; [[gratifying]]; agreeable; [[welcome]]; as, an ''acceptable'' present, one ''acceptable'' to us.

@@ -1,3 +1,0 @@
-===[[Acronym]]===
-
-Return On Investment

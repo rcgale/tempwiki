@@ -1,3 +1,0 @@
-==Spanish==
-
-Abbreviation of [[Banco Mundial]], [[World Bank]]

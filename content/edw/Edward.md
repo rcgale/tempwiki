@@ -1,7 +1,0 @@
-[Ed-ward] /[E(]d'w[upside down e:-s]rd/
-
-
-1)Boys name tradionally meaning..
-
-===Further Reading===
-[http://www.wikipedia.org/wiki/Edward Wikipedia Article]

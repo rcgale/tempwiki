@@ -1,2 +1,0 @@
-===Noun===
-#An idealized non-commerical form of the Internet.

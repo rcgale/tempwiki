@@ -1,6 +1,0 @@
-'''[[adjective]]'''
-
-# Related to the belief in several [[god]]s; see [[polytheism]].
-
-== Translations ==
-* Spanish : [[politeísta]]

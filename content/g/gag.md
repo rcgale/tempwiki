@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-#[[group specific antigens]]

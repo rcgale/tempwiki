@@ -1,4 +1,0 @@
-===Etymology===
-From Italian ''acciaccare'', (to crush)
-===Noun===
-#''(Music)'' A short grace note, one [[semitone]] below the note to which it is prefixed; -- used especially in organ music. Later used as equivalent to the short ''[[appoggiatura]]''.

@@ -1,2 +1,0 @@
-===Noun===
-#A fanatical advocate of the Macintosh computer system.

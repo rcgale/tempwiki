@@ -1,7 +1,0 @@
-===Variant spellings===
-mandap, mandapam
-===Etymology===
-Sanskrit ''ma&#7751;&#7693;apam''; (Tamil?)
-===Noun===
-#''(in south Indian architecture):'' a pillared hall or porch fronting a temple. It may be attached or detached from the building.
-#a temporary platform for weddings or religious ceremonies.

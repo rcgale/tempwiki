@@ -1,7 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Analog Mobile Phone System]]
-
-===Related words===
-*[[mobile phone]]
-*[[TACS]]

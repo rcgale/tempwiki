@@ -1,4 +1,0 @@
-Tao
-“The way” of Reality. The way of life, of truth, of necessity. The ultimate imperative of all patterns and forces of reality which is beyond all denials or defiance. 
-
-See also: [[Ananke]] [[Reality]]

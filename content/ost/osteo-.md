@@ -1,5 +1,0 @@
-== Etymology ==
-Combining form of Greek οστεον, [[οστούν]].
-
-== Prefix ==
-[[Bone]]: [[osteoarthritis]], [[osteoporosis]], [[osteomalacia]], [[osteopath]].

@@ -1,2 +1,0 @@
-Acanthus, <i>[[Noun]]</i>, ''Mediterraniean herbs with toothed leaves, an architectural design having such ornamental features''. 
-<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[]]<BR>• [[German]]: [[]]<BR>• [[Interlingua]]: [[Acantho]]<BR>• [[Italian]]: [[]]<BR>• [[Portuguese]]: [[]]<BR>• [[Spanish]]: [[Acanto]]<BR>

@@ -1,2 +1,0 @@
-===[[Acronym]]===
-*European Free Trade Association

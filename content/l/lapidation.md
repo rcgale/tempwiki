@@ -1,1 +1,0 @@
-To stone to death

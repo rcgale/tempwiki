@@ -1,2 +1,0 @@
-===Noun===
-#(''obsolete'') An ironmonger.

@@ -1,3 +1,0 @@
-This page is to list any "fascinating" new words, abbreviations that have entered dictionaries etc.
-----
-*[[translationary]]

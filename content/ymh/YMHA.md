@@ -1,2 +1,0 @@
-===Abbreviation===
-#Young Men's Hebrew Association

@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Automobile Club of Tasmania (Australian Automobile Association)

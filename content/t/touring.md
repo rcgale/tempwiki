@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Belgian Automobile Association

@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-*[[Base Station Subsystem]]

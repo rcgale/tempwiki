@@ -1,3 +1,0 @@
-===Translations===
-
-*French: [[marché financier]]

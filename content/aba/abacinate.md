@@ -1,4 +1,0 @@
-===Etymology===
-Late Latin ''abacinatus'', past participle of ''abacinare''; ''ab'' off + ''bacinus'' a [[basin]].
-===Transitive verb===
-#To blind by a [[red-hot]] metal plate held before the eyes.

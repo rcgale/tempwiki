@@ -1,3 +1,0 @@
-''Adjective'' derived from [[gleam]]
-
-Synonyms: shining, glowing, glinting

@@ -1,4 +1,0 @@
-===Alternative Spelling===
-Contemporization
-===Noun===
-#The process of bring an activity or organization up to date.

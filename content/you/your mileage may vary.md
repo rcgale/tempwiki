@@ -1,4 +1,0 @@
-From the standard disclaimer attached to mileage ratings by American car manufacturers. Frequently abbreviated as ''YMMV''.
-#It may work differently in your situation.
-#It may work differently on your computer.
-#This is just my opinion/taste, your opinion/taste may be different. "It's a very popular name. For that reason alone I wouldn't choose it.  It's 'trendy'.  YMMV, of course."

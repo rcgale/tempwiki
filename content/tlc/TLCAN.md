@@ -1,7 +1,0 @@
-Spanish
-
-Abbreviation of [[Tratado de Libre Comercio de América del Norte]]
-
-'''Translation'''
-
-* [[NAFTA]]

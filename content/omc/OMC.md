@@ -1,5 +1,0 @@
-Spanish
-
-==[[Noun]]==
-
-#Abbreviation of [[Organización Mundial de Comercio]]

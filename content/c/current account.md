@@ -1,6 +1,0 @@
-===Translations===
-*Dutch: [[zichtrekening]]
-*French: [[compte courant]]
-*Interlingua: [[conto currente]]
-*Portuguese: [[conta corrente]]
-*Spanish: [[cuenta corriente]]

@@ -1,9 +1,0 @@
-Accountability, <i>[[Noun]]</i>, ''responsibility''. 
-<HR> <P> <H3>Translations</H3>
-<BR>• [[French]]: [[Responsabilité]]
-<BR>• [[German]]: [[Verantwortlichkeit]]
-<BR>• [[Interlingua]]: [[Responsabilitate]]
-<BR>• [[Italian]]: [[Responsabilità]]
-<BR>• [[Portuguese]]: [[Accountability]]
-<BR>• [[Spanish]]: [[Responsabilidad]]
-<BR>

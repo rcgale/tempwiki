@@ -1,2 +1,0 @@
-===Noun===
-#A company whose business is based around a website.

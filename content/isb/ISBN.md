@@ -1,7 +1,0 @@
-Abbreviation for 
-
-*International Standard Book Number
-
-
-
-'''USAGE NOTE:''' It is an ISB Number not an ISBN Number, as you are saying; International Standard Book Number Number.

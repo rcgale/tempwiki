@@ -1,4 +1,0 @@
-===Etymology===
-Prefix ''ab-'' + ''irritate''
-===Transitive verb=== 
-#''[[Medicine]]:'' To [[diminish]] the [[sensibility]] of; to [[debilitate]].

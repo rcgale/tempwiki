@@ -1,7 +1,0 @@
-===Etymology===
-From Greek meaning [[edible]]
-===Noun===
-#Something added at no extra charge, usually edible such as the thirteenth item in a baker's dozen.
-===Derived terms===
-*[[Carpobrotus]]
-*[[black brotus]]

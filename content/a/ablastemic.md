@@ -1,4 +1,0 @@
-===Etymology===
-Greek &alpha;- not + &beta;&lambda;&alpha;&sigma;&tau;&omicron;&sigma growth.]
-===[[Adjective]]===
-#''(Biology):'' Non-[[germinal]].

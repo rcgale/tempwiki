@@ -1,4 +1,0 @@
-===Etymology===
-French, from ''[[abattre]]'' to beat down. See [[Abate]] 
-===Noun===
-#A public slaughterhouse for cattle, sheep, etc.

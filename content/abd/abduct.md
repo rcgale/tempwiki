@@ -1,7 +1,0 @@
-===Etymology===
-Latin ''abductus'', past participle of ''abducere''. See [[Abduce]].
-===Transitive verb===
-Imperfect and past participle:  [[Abducted]]<br>
-Present participle and verbal noun: [[Abducting]].
-#To take away [[surreptitiously]] by force; to carry away (a human being) [[wrongfully]] and usually by violence; to [[kidnap]].
-#To draw away, as a limb or other part, from its ordinary position.

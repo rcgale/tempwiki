@@ -1,3 +1,0 @@
-===Noun===
-#State of sleep from which it is difficult to wake.
-#Artificially induced hibernation in humans for the purpose of long distance travel.

@@ -1,9 +1,0 @@
-Achromatism, ''[[Noun]]'', free of colors, not emitting or separating into colors. 
----- 
-'''Translations''' 
-* [[French]]: [[Daltonisme]] 
-* [[German]]: [[]] 
-* [[Interlingua]]: [[Achromatismo]] 
-* [[Italian]]: [[]] 
-* [[Portuguese]]: [[]] 
-* [[Spanish]]: [[Acromatismo]]

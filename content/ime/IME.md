@@ -1,4 +1,0 @@
-==Spanish==
-==Abbreviation==
-
-*[[Industria Maquiladora de Exportación]]

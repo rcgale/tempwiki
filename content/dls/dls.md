@@ -1,3 +1,0 @@
-===Spanish===
-
-* Abbreviation sometimes used for [[dollar]]s

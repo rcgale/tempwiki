@@ -1,6 +1,0 @@
-===Etymology===
-Latin ''accitus'', past participle of ''accire'', ''accere'', to call for; ''ad'' + ''ciere'' to move, call. See [[cite]]
-===Transitive verb=== 
-#''(Obsolete):'' To cite; to [[summon]]
-#:'''Quotations'''
-#:*Our heralds now ''accited'' all that were Endamaged by the Elians. - [[Chapman]]

@@ -1,8 +1,0 @@
-'''noun'''
-
-# A person who is part of a [[bureaucracy]]
-
-'''Translations'''
-*[[Dutch]]: [[bureaucraat]]
-*[[French]]: fonctionnaire. Note : ''bureaucrate'' in French is a [[false friend]], it is [[pejorative]].
-*[[Finnish]]: [[byrokraatti]]

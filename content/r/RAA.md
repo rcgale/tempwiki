@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Automobile Association (Australian Automobile Association)

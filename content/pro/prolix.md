@@ -1,1 +1,0 @@
-(adjective) to use large or obscure words, which few understand; noun prolixity

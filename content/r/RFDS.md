@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Royal Flying Doctor Service of Australia

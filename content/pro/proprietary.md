@@ -1,9 +1,0 @@
-===Adjective===
-#Relating to [[property]] or ownership
-
-=== Translation ===
-
-*[[Esperanto]]: [[proprajxa]]
-*[[Interlingua]]: [[proprietari]]
-*[[Spanish]]: [[propietario]]
-*[[Portuguese]]: [[proprietário]]

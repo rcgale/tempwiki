@@ -1,8 +1,0 @@
-===Noun===
-
-'''meanings'''
-#[[Punctuation]] [[mark]] indicating a pause between parts of a sentence or between elements in a list.
-
-'''translations'''
-*Dutch: [[komma]]
-*Finnish: [[pilkku]]

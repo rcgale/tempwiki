@@ -1,7 +1,0 @@
-===Noun===
-
-# An abbreviation of "File Transfer Protocol", a way to transfer files over over the [[internet]].
-
-===Verb===
-
-# To transfer data between computers using "File Transfer Protocol".

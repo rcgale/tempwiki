@@ -1,2 +1,0 @@
-===[[Abbreviation]]===
-* National Association of Intercollegiate Athletics

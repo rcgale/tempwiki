@@ -1,1 +1,0 @@
-[[French]] for [[tongue]] or [[language]].

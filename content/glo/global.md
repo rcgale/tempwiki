@@ -1,8 +1,0 @@
-==[[adjective]]==
-
-*Related to all the parts of the world
-
-===Related words===
-
-*[[globalisation]]
-*[[global warming]]

@@ -1,5 +1,0 @@
-===Adjective===
-#Having an effect on a large number of animals within a locality. Most commonly used with reference to a disease. Comparable to an [[epidemic]], but limited to affecting animals.
-
-===Noun===
-#A disease which is epizootic.

@@ -1,6 +1,0 @@
-===Etymology===
-From [[Dutch]]: [[pappekak]]; [[pap]] = soft + [[kak]] ''(vulgar)'' = dung
-===Noun===
-#nonsense.
-#:'''Translations'''
-#:*Dutch: [[onzin]], [[nonsens]]

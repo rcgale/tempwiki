@@ -1,5 +1,0 @@
-===Noun===
-([[Colloquial]]) [[Publishing]] Industry term.
-
-#[[Collection]] of [[rejected]] [[manuscripts]].
-#Collection of [[unsolicited]] manuscripts.

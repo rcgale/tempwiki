@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[abrogate]]
-===Adjective===
-#Capable of being abrogated.

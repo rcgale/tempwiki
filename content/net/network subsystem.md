@@ -1,3 +1,0 @@
-===Translations===
-
-*[[sous-système réseau]]

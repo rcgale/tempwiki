@@ -1,3 +1,0 @@
-[[colloquialism]]
-
-#At the maximum, the whole of an amount.

@@ -1,3 +1,0 @@
-==French==
-===Noun===
-#Observer

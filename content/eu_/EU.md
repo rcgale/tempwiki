@@ -1,8 +1,0 @@
-Abbreviation for:
-
-* [[European]] [[Union]]
-
-'''translations'''
-
-*Dutch: EU (Europese Unie)
-*Finnish: EU (Euroopan Unioni)

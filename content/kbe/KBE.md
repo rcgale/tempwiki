@@ -1,3 +1,0 @@
-Abbreviation for:
-
-*Knight Commander of the Order of the British Empire

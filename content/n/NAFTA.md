@@ -1,7 +1,0 @@
-[[Abbreviation]] of [[w:North American Free Trade Agreement|North American Free Trade Agreement]]
-
-'''[[Translation]]s'''
-
-* Finnish : [[NAFTA]]
-* French : [[ALÉNA]]
-* Spanish : [[TLCAN]]

@@ -1,7 +1,0 @@
-==[[Adverb]]==
-
-In an [[accidental]] manner; [[unexpectedly]]; by [[chance]]; [[unintentionally]]; [[casually]]; [[fortuitously]]; not essentially.
-
-===Related words===
-*[[accident]]
-*[[accidental]]

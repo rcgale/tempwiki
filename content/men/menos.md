@@ -1,5 +1,0 @@
-Spanish
-
-==Adverb==
-
-#[[Less]]

@@ -1,5 +1,0 @@
-Spanish
-
-Adjective
-
-From [[Chiapas]] or relatated to [[Chiapas]]

@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-*[[International Mobile Equipment Identity]]

@@ -1,3 +1,0 @@
-===[[Abbreviation]]===
-
-#Automobile Association of the Northern Territory (Australian Automobile Association)

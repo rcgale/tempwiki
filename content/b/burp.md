@@ -1,9 +1,0 @@
-===Noun===
-#A belch.
-#:'''translations'''
-#:*[[Dutch]]: [[boer]], [[oprisping]]
-
-===Verb===
-#To emit a burp.
-#:'''translations'''
-#:*[[Dutch]]: [[boeren]]

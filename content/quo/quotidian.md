@@ -1,6 +1,0 @@
-==Adjective== 
-#[[occurring]] or [[recurring]] every [[day]]
-#[[common]], [[ordinary]], [[trivial]] 
-
-===Etymology=== 
-Latin quotidie - daily

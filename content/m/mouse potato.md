@@ -1,6 +1,0 @@
-==Etymology==
-Comes from [[Couch Potato]] and a computer [[Mouse]].
-==Pronunciation==
-[Mouse Po-ta-toe] /____/
-==Part of Speech==
-#A person who spends all their time eating food, and using a computer.

@@ -1,5 +1,0 @@
-===Etymology===
-Derivative of [[accept]].
-===Adjective===
-#Fit for [[acceptance]].
-#Ready to accept. [Obsolete] - Ben Jonson

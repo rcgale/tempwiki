@@ -1,8 +1,0 @@
-===Pronunciation===
-[NA-TO]
-===Acronym===
-#North Atlantic Treaty Organisation
-#:'''Translations'''
-#:*[[Dutch]]: [[NAVO]]
-#:*[[French]]: [[OTAN]]
-#:*[[German]]: NATO

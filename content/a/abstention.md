@@ -1,1 +1,0 @@
-Abstention, <i>[[Noun]]</i> <HR> <P> <H3>Translations</H3><BR>• [[French]]: [[Abstention]]<BR>• [[German]]: [[Enthaltung]]<BR>• [[Interlingua]]: [[Abstention]]<BR>• [[Italian]]: [[Astensione]]<BR>• [[Portuguese]]: [[Abstention]]<BR>• [[Spanish]]: [[Abstención]]<BR>

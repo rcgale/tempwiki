@@ -1,5 +1,0 @@
-Spanish
-
-==[[Adjective]]==
-
-*Related to the city of [[La Paz]], [[Bolivia]]

@@ -1,1 +1,0 @@
-Spanish abbreviation for barriles por día

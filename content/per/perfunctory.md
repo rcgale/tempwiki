@@ -1,5 +1,0 @@
-perfunctory - \Per*func"to*ry\
-
-==Adjective==
-
-# to do with little or no care; "He did a perfunctory job cleaning his dads car"

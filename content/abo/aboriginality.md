@@ -1,5 +1,0 @@
-===Etymology===
-Derivative of [[aboriginal]]
-===Noun===
-#The quality of being [[aboriginal]]
-#The distinctive culture of aboriginal peoples.

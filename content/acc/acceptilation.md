@@ -1,4 +1,0 @@
-===Etymology===
-Latin ''acceptilatio'' [[entry]] of a debt collected, [[acquittance]], from past participle of ''accipere'' (cf. [[Accept]]) + ''latio'' a carrying, from ''latus'', past participle of ''ferre'' to carry: (also in French) 
-===Noun===
-#''Civil Law'': [[Gratuitous]] discharge; a release from debt or obligation without payment; free [[remission]].

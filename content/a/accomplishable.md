@@ -1,7 +1,0 @@
-==[[Adjective]]==
-
-[[Capable]] of being [[accomplished]]; [[practicable]]. ''[[Carlyle (source)|Carlyle]].''
-
-===Related Words===
-*[[accomplish]]
-*[[accomplished]]

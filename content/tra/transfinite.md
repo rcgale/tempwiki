@@ -1,1 +1,0 @@
-(Adjective, Mathematics) to be beyond the finite, to be infinite -- used of the transfinite cardinals and ordinals (aleph-null, omega, etc.)

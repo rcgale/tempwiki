@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-*[[Conference of European Posts and Telegraphs]]

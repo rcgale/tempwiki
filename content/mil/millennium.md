@@ -1,9 +1,0 @@
-[Mi-llen-ni-um] /___/
-
-===[[Noun]]===
-#A period of time consisting of 1,000 years.
-#:'''Translations'''
-#:*[[Dutch]]: millennium (on this page)
-#:*[[Finnish]]: [[vuosituhat]]
-#:*[[French]]: [[millénaire]]
-#:*[[German]]: [[Jahrtausend]]

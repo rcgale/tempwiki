@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-*[[Regular pulse excited-Linear Predictive Coder]]

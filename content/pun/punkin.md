@@ -1,1 +1,0 @@
-# [[Pumpkin]]. Punkin is an alternative form and pronounciation used sometimes in the United States, especially as a term of endearment. James Whitcomb Riley, poem "When the Frost is on the Punkin" [http://www.bartleby.com/104/10.html]

@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Personal Communication System]]

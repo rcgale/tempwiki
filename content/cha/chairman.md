@@ -1,5 +1,0 @@
-'''Translations'''
-
-*Dutch: [[voorzitter]]
-*Finnish: [[puheenjohtaja]]
-*French: [[secrétaire général]] (for a political party)

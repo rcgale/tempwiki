@@ -1,8 +1,0 @@
-==Noun==
-
-*The fact of going to a more interconnected world.
-
-===Translations===
-
-*Finnish: [[globalisaatio]]
-*French: [[mondialisation]]

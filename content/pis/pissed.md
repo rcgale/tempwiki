@@ -1,9 +1,0 @@
-===Etymology===
-Derivative of [[piss]]
-
-===Verb===
-#Past tense and past participle of [[piss]].
-
-===Adjective===
-#Drunk
-#(chiefly American) to be angry or annoyed

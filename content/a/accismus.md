@@ -1,4 +1,0 @@
-===Etymology===
-New Latin, from Greek.
-===Noun===
-#''(Rhetoric):'' Affected [[refusal]]; [[coyness]].

@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-#[[Public Switched Telecomm Network]]

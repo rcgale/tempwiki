@@ -1,2 +1,0 @@
-===Noun===
-#A boost, a sudden improvement.

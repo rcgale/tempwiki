@@ -1,3 +1,0 @@
-==[[Abbreviation]]==
-
-#[[European Telecommunication Standards Institute]]

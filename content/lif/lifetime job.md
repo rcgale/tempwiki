@@ -1,5 +1,0 @@
-===Expression===
-#A job that you keep all your life or till your retirement.
-
-===Translations===
-*French : emploi à vie

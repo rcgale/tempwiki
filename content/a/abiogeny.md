@@ -1,2 +1,0 @@
-===Noun===
-#''(Biology):'' [[Abiogenesis]].

@@ -1,6 +1,0 @@
-===Etymology===
-A false [[orthography]] anciently used; ''h'' was [[foisted]] into various words; hence ''abholish'', for ''abolish'', etc.
-===Adjective===
-#[[Abominable]]. 
-#:'''Quotation'''
-#:*This is ''abhominable'', which he [Don Armado] would call ''abominable'' - Shakespeare, ''Love's Labours Lost, V-i''

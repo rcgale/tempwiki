@@ -1,1 +1,0 @@
-A slang insult, especially for one who is mean or stupid.

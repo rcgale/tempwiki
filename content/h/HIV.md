@@ -1,2 +1,0 @@
-===abbreviation===
-#Human immunodeficiency virus, either of two viruses that can lead to [[AIDS]].

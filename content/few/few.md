@@ -1,9 +1,0 @@
-===[[adjective]]===
-#More than [[one]], but less than usual.
-#:'''Translations'''
-#:*[[Dutch]]: [[weinig]]
-#:*[[French]]: [[peu de]]
-#:*[[German]]: [[wenige]], [[einige]]
-
-===Related words===
-* [[a few]]

@@ -1,6 +1,0 @@
-===Noun===
-#the duration of something or someone's life
-#an informally long period of time
-===Derived phrases===
-*[[lifetime job]]
-*[[of a lifetime]]

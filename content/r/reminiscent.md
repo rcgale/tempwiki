@@ -1,4 +1,0 @@
-Adjective.
-Something is said to be reminiscent of something else. When something reminds you of something else. For example, "This food is reminiscent of my recent holiday."
-
-One engages in the act of reminiscence.

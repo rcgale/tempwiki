@@ -1,7 +1,0 @@
-One who serves another, providing help in some manner.
-
-----
-
-One who is hired to provide regular household or other duties, and receives compensation.  As opposed to a [[slave]].
-
-----

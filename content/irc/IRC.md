@@ -1,7 +1,0 @@
-'''[[noun]]'''
-
-# An abbreviation of Internet Relay Chat, a protocol for instant communication via the [[internet]].
-
-== Further reading ==
-
-* [[w:IRC|Wikipedia article on IRC]]

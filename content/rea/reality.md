@@ -1,3 +1,0 @@
-That which is ultimately foundational beyond all words or mortal concepts. That which is beyond what is perceived, and yet is apprehended to contain all that ever can be perceived by mortals and more. 
-
-See also: [[Tao]] [[Ananke]]

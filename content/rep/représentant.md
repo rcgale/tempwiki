@@ -1,5 +1,0 @@
-==French==
-===Verb===
-#Present participle of ''représenter'' = Representing
-===Noun===
-#Representative

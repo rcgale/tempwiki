@@ -1,7 +1,0 @@
-===Etymology===
-Derivative of [[queach]]
-===Adjective===
-#Yielding or trembling under the feet, as moist or boggy ground; shaking; moving. "The queachy fens".
-#:'''Quotations'''
-#:*Godwin's queachy sands. - [[Drayton]]
-#Like a [[queach]]; thick; bushy. [Obsolete] - [[Cockeram]]

@@ -1,7 +1,0 @@
-derived from [[pseudo]]
-
-literally, [[false]] [[name]]
-
-'''translations'''
-*Dutch: [[pseudoniem]]
-*Finnish: [[salanimi]]

@@ -1,1 +1,0 @@
-An '''aromatic vegetable''' is a [[vegetable]] used as a flavor base for [[cooking]], usually by sweating or sauteeing.  [[Carrot]]s, [[onion]]s, [[garlic]], [[pepper]]s, and [[celery]] are often used for this purpose.

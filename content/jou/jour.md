@@ -1,1 +1,0 @@
-French word for [[day]].

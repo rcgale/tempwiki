@@ -1,1 +1,0 @@
-(Of a ship, aircraft, space craft) Destroyed or sunk, while all passengers and crew died.

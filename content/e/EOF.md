@@ -1,3 +1,0 @@
-===abbreviation===
-#(''Computing'') end of file.
-''related word:'' [[BOF]]

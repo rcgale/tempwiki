@@ -1,2 +1,0 @@
-===Noun===
-#A computer virus written in a [[macro language]].

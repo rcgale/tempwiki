@@ -1,2 +1,0 @@
-===Noun===
-#The state of being alive.

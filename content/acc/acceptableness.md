@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[accept]] + [[-able]] + [[-ness]]
-===Noun===
-The quality of being [[acceptable]], or suitable to be [[favorably]] received; [[acceptability]].

@@ -1,2 +1,0 @@
-===Noun===
-# Derogatory term for an [[alien]].

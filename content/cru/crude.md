@@ -1,9 +1,0 @@
-'''[[adjective]]'''
-
-# [[Unrefined]], as in [[crude oil]]
-# [[Rudimentary]], [[primitive]] (a ''crude'' [[shelter]])
-# A [[portmanteau]] word meaning [[crass]] and [[rude]]
-
-== Translations ==
-
-* Spanish : [[crudo]]

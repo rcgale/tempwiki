@@ -1,3 +1,0 @@
-===[[Translation]]s===
-
-*[[Spanish]]: [[veneno]]

@@ -1,4 +1,0 @@
-===Alternative spellings===
-===Pronounciation===
-===Noun===
-#A language in the subgroup of the [[Carpatho-Rusyn]]s.

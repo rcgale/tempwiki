@@ -1,6 +1,0 @@
-===Etymology===
-Derivative of [[accept]] + [[-able]] + [[-ity]]
-Late Latin ''acceptabilitas''
-===Noun===
-#The quality of being [[acceptable]]; [[acceptableness]].
-#:''Acceptability'' of repentance. -  Jeremy Taylor, about 1640

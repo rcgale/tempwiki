@@ -1,4 +1,0 @@
-===Etymology===
-Prefix ''ab-'' + ''judge''.  Cf. [[Abjudicate]]
-===Transitive verb===
-#To take away by judicial decision.

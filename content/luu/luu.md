@@ -1,8 +1,0 @@
-==Finnish==
-===Noun===
- : Pääosin kalkista koostuva osa eläinten tukirankaa, [[luusto]]a.
-
-Käännökset:
-
-*English: [[bone]]
-*German: [[Knochen]]

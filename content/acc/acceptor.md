@@ -1,7 +1,0 @@
-===Etymology===
-Derivative of [[accept]]
-===Noun===
-#One who accepts
-#''In law and commerce''; one who accepts a draft or a bill of exchange; a [[drawee]] after he has accepted.
-#''In chemistry'': an atom or molecule which can accept an electron to form a chemical bond.
-#''In physics'': a chemical acceptor atom forming a positive hole in a semiconductor.

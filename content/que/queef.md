@@ -1,1 +1,0 @@
-An emission of air from the [[vagina]], usually occurring after sexual intercourse or the insertion of an object into the [[vagina]].  The sound resembles a [[fart]] ([[flatulence]] from the [[anus]]).

@@ -1,2 +1,0 @@
-===Abbreviation===
-#Young Women's Hebrew Association

@@ -1,2 +1,0 @@
-===[[Abbreviation]]===
-* National Collegiate Athletic Association

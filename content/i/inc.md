@@ -1,3 +1,0 @@
-==[[noun]]==
-
-Acronym for [[Incorporated]], a type of (business) company

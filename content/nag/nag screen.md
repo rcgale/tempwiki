@@ -1,3 +1,0 @@
-===Noun===
-
-#Message embedded in shareware product to encourage the user to register, usually placed in a position which attracts the attention of the user.

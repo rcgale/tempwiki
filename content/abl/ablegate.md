@@ -1,6 +1,0 @@
-===Etymology===
-Latin ''ablegatus'', past participle of ''ablegare''; ''ab'' + ''legare'' to send with a commission. See [[Legate]].]
-===Transitive verb=== 
-#To send abroad. [Obsolete] - ''[[Bailey]]''
-===Noun===
-#''([[Roman Catholic Church]])'' A representative of the pope charged with important commissions in foreign countries, one of his duties being to bring to a [[newly]] named [[cardinal]] his [[insignia]] of office.

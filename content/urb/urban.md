@@ -1,9 +1,0 @@
-==[[Adjective]]==
-
-#Related to the city
-
-===Translations===
-*Dutch: [[stedelijk]]
-*French: [[urbain]]
-*German: [[städtisch]]
-*Spanish: [[urbano]]

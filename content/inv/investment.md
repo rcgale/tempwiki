@@ -1,6 +1,0 @@
-==[[Noun]]==
-
-
-===Translations===
-
-*French: [[investissement]]

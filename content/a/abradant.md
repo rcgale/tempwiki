@@ -1,4 +1,0 @@
-===Etymology===
-Derivative of [[abrade]]
-===Noun===
-#A [[material]] used for [[grinding]], as [[emery]], [[sand]], [[powdered]] [[glass]], etc.

@@ -1,9 +1,0 @@
-==[[Noun]]==
-
-*The fact of having no job.
-
-===Translations===
-
-*Dutch: [[werkloosheid]]
-*French: [[chômage]]
-*Spanish: [[desempleo]]
