@@ -1,0 +1,6 @@
+===Etymology===
+Latin ''abrenuntiare''; ''ab'' + ''renuntiare''. See [[Renounce]].]
+===Transitive verb===
+#To renounce. [Obsolete]
+#:'''Quotations'''
+#:*They ''abrenounce'' and cast them off. - [[Latimer]]
