@@ -1,0 +1,10 @@
+(en)
+
+<b>non'</b>-sense
+
+# Words with no meaning; [[gibberish]]
+# A statement that is very untrue; [[bullshit]] (informal)
+
+*de: [[Quatsch]], [[Unsinn]], [[Blödsinn]]
+*fr: [[non-sens]], [[absurdité]]
+*nl: [[onzin]], [[flauwekul]]
