@@ -1,0 +1,3 @@
+'''Abiological''', ''[[adjective (part of speech)|adjective]]'' [Gr. 'a priv. + E. ''biological''.]
+
+Pertaining to [[inanimate]] things.
