@@ -1,0 +1,4 @@
+===Etymology===
+Derivative of [[abhor]]
+===Noun===
+One who [[abhor]]s. - [[Hume]]
