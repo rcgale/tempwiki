@@ -1,0 +1,13 @@
+===Etymology===
+Derivative of [[accord]]
+===Adverb===
+#[[Agreeably]]; [[correspondingly]]; [[suitably]]; in a manner [[conformable]].
+#:*We may the number of ships behold, and so proceed ''accordingly''. - Shakespeare, ''Antony and Cleopatra, III-ix''
+#In natural [[sequence]]; [[consequently]]; so.
+===Synonyms===
+*[[Consequently]]; therefore; [[wherefore]]; hence; so. 
+*''Consequently'', indicate a connection between two things, the latter of which is done on account of the former. 
+*''Accordingly'' marks the connection as one of simple accordance or [[congruity]], leading naturally to the result which followed; as, he was absent when I called, and I ''accordingly'' left my card; our preparations were all finished, and we ''accordingly'' set sail. ''Consequently'' all finished, and we ''accordingly'' set sail. 
+*''Consequently'' marks a [[closer]] connection, that of [[logical]] or [[causal]] sequence; as, the papers were not ready, and ''consequently'' could not be signed.
+
+<HR> <P> <H3>Translations</H3><BR>• [[French]]: [[En conséquence]]<BR>• [[German]]: [[Dementsprechend]]<BR>• [[Interlingua]]: [[In consequentia]]<BR>• [[Italian]]: [[Di conseguenza]]<BR>• [[Portuguese]]: [[Conformemente]]<BR>• [[Spanish]]: [[Por consiguiente]]<BR>
